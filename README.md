@@ -1,2 +1,2 @@
 # animap
-Animated maps building blocks
+Building blocks for animated maps.
