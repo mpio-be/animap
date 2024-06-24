@@ -1,4 +1,12 @@
 
+#' setdr 
+#' 
+#' setdr  
+#' @param sp 
+#' @param dr 
+#' @examples 
+#' setdr(sp =  , dr = ~/Desktop/temp/)
+#' @export 
 
 setdr <- function(sp, dr = "~/Desktop/temp/") {
 
